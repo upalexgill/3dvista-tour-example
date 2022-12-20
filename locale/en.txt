@@ -1,0 +1,54 @@
+#: locale=en
+
+## Media
+
+### Audio
+audiores_1D9F2956_302F_4335_41C1_CA91377E21F7.mp3Url = media/audio_1D4CD4C3_302F_C113_41C1_A0F33302767A_en.mp3
+
+### Title
+video_1E11870D_3063_4FA1_4185_936F0E56BB09.label = 200930_03_Scribe Artist_4k_004
+video_190447FE_3021_CE55_41B2_9A0FBA8EBFBD.label = Cogs Turning 1
+video_1DD723E5_3061_466E_41C3_D7D76642C5A3.label = Cogs Turning 2
+video_18679AE5_3021_4629_41AF_75A426F8958F.label = GREEN_SCREEN_ANIMALS__ALPACA
+panorama_107DF5C3_3023_4215_41C4_CB9F4AE69515.label = office_demo_00000
+panorama_2F9DD466_3022_C211_41B1_2DB6872D97F9.label = office_demo_00001
+panorama_2F9A501F_3022_C22F_41C5_7A40DBEBCFDE.label = office_demo_00002
+panorama_2F9A3ACE_3022_C611_41BC_38BF23167741.label = office_demo_00003
+panorama_2F99B5DB_3021_4237_41C3_7FC08E3BD765.label = office_demo_00004
+panorama_2F99E107_3021_421F_41BA_88A87460BD78.label = office_demo_00005
+panorama_2F99FBC1_3021_C613_41C3_32BD1C0DA90E.label = office_demo_00006
+panorama_2F9E768E_3021_CE11_41A4_946E7922A3A3.label = office_demo_00007
+panorama_2F991108_3021_4211_41C0_D9873127954A.label = office_demo_00008
+panorama_2F995BF3_3021_45F7_41A9_4AD1D7CBF931.label = office_demo_00009
+
+### Video
+videolevel_0D00EB9C_3062_C7C0_417E_3668D495D3F4.url = media/video_18679AE5_3021_4629_41AF_75A426F8958F_en.mp4
+videolevel_0D00EB9C_3062_C7C0_417E_3668D495D3F4.posterURL = media/video_18679AE5_3021_4629_41AF_75A426F8958F_poster_en.jpg
+videolevel_0D03CBFF_3062_C740_41C7_67D784C22561.url = media/video_190447FE_3021_CE55_41B2_9A0FBA8EBFBD_en.mp4
+videolevel_0D03CBFF_3062_C740_41C7_67D784C22561.posterURL = media/video_190447FE_3021_CE55_41B2_9A0FBA8EBFBD_poster_en.jpg
+videolevel_0D037C60_3062_C140_417D_D512B1F25308.url = media/video_1DD723E5_3061_466E_41C3_D7D76642C5A3_en.mp4
+videolevel_0D037C60_3062_C140_417D_D512B1F25308.posterURL = media/video_1DD723E5_3061_466E_41C3_D7D76642C5A3_poster_en.jpg
+videolevel_0D025CC3_3062_C141_41B9_FD98C67CDB88.url = media/video_1E11870D_3063_4FA1_4185_936F0E56BB09_en.mp4
+videolevel_0D025CC3_3062_C141_41B9_FD98C67CDB88.posterURL = media/video_1E11870D_3063_4FA1_4185_936F0E56BB09_poster_en.jpg
+
+## Skin
+
+### Image
+Image_0B17893F_3021_4318_4191_86DE6FEBBD78.url = skin/Image_0B17893F_3021_4318_4191_86DE6FEBBD78_en.png
+
+### Multiline Text
+HTMLText_0950951C_3021_C314_41C0_C0E3532F3A57.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </SPAN></SPAN></DIV></div>
+HTMLText_0BD0D71F_3021_CF1C_41B1_3C7FDA02CDBB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+HTMLText_0CA5884C_302E_C17D_41BC_42844D9437B5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+
+### Tab Panel
+TabPanelPage_09D0DDBE_3021_4312_41C6_DC19AD088532.label = Tab 1
+TabPanelPage_09D0FDC0_3021_436E_41C2_AD0E5E91641A.label = Tab 2
+TabPanelPage_09D00DC0_3021_436E_41BD_0A691EE80EC0.label = Tab 3 
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Example
